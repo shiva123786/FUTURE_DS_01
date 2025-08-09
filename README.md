@@ -1,15 +1,15 @@
 # Task - 01
-# 📈 E-commerce Sales Dashboard - Power BI Project
+## 📈 E-commerce Sales Dashboard - Power BI Project
 
 ### Task-01: Business Sales Dashboard from E-commerce Data
 
-## 🎯 Project Objective
+### 🎯 Project Objective
 
 This project focuses on analyzing a comprehensive e-commerce dataset to derive actionable business insights. The primary goal is to identify best-selling products, uncover sales trends, and pinpoint high-revenue categories. The final deliverable is a dynamic and interactive dashboard built in Power BI designed for business stakeholders to explore data and make informed decisions.
 
 ---
 
-## 🛠️ Tools and Technologies
+### 🛠️ Tools and Technologies
 
 * **Power BI Desktop**: Used for data modeling, transformation, and creating visualizations.
 * **Power Query**: Used for all ETL (Extract, Transform, Load) operations, including data cleaning and preparation.
@@ -17,7 +17,7 @@ This project focuses on analyzing a comprehensive e-commerce dataset to derive a
 
 ---
 
-## 🔄 Project Workflow
+### 🔄 Project Workflow
 
 The project followed a systematic approach from raw data to a finished dashboard:
 
@@ -52,7 +52,7 @@ The project followed a systematic approach from raw data to a finished dashboard
 
 ---
 
-## 💡 Key Insights (Example)
+### 💡 Key Insights (Example)
 
 * **Top Performers**: The "Classic Cars" product line is the highest revenue-generating category.
 * **Sales Trend**: A significant seasonal peak in sales is observed in the last quarter (October, November) of each year.
@@ -60,11 +60,11 @@ The project followed a systematic approach from raw data to a finished dashboard
 
 ---
 
-## 🖼️ Dashboard Preview
+### 🖼️ Dashboard Preview
 <img width="1905" height="777" alt="Sales Dashboard (2)" src="https://github.com/user-attachments/assets/3915210b-0464-4064-b24a-69892db51d2b" />
 
 ---
-## 🚀 How to Use
+### 🚀 How to Use
 
 1.  Download the `.pbix` file from this repository.
 2.  Open the file using Power BI Desktop.
