@@ -51,21 +51,11 @@ The project followed a systematic approach from raw data to a finished dashboard
         * **Slicers** to allow for dynamic filtering by year, country, and product line.
 
 ---
-
 ### 💡 Key Insights (Example)
-
 * **Top Performers**: The "Classic Cars" product line is the highest revenue-generating category.
 * **Sales Trend**: A significant seasonal peak in sales is observed in the last quarter (October, November) of each year.
 * **Geographic Analysis**: The USA is the dominant market, contributing to over one-third of the total sales.
-
 ---
-
 ### 🖼️ Dashboard Preview
 <img width="1905" height="777" alt="Sales Dashboard (2)" src="https://github.com/user-attachments/assets/3915210b-0464-4064-b24a-69892db51d2b" />
-
 ---
-### 🚀 How to Use
-
-1.  Download the `.pbix` file from this repository.
-2.  Open the file using Power BI Desktop.
-3.  Interact with the slicers and visuals to explore the sales data from different perspectives.
